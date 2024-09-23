@@ -99,6 +99,7 @@ form > input {
     text-align: center;
 }
 .ecoli {
+    position:relative;
     width: 125px;
-    left: 500px;
+    left: 70px;
 }
